@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can find my full CV [here](https://laurinemir.github.io/files/CV.pdf)
+You can find my full CV [here](https://laurinemir.github.io/files/CV_2026.pdf)
 
 
 ## Education
-
 
 * [Ecole Polytechnique](https://www.polytechnique.edu), Cycle Ingénieur, majoring in Applied Mathematics 2021-2025
 * [ENSAE Paris](https://www.ensae.fr/en/education/ingenieur-ensae-program), Master 2 in  Economics Policies and Dynamics 2024-2025
