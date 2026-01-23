@@ -7,7 +7,7 @@ author_profile: true
 
 ## Work in Progress
 
-**Note on structural constraints behind France’s demographic decline** with [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home) and French Council of Economic Analysis[CAE](http://cae-eco.fr)
+* **Note on structural constraints behind France’s demographic decline** with [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home) and French Council of Economic Analysis[CAE](http://cae-eco.fr)
 
 
 
