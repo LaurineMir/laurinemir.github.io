@@ -8,13 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+You can find my full CV [here](https://laurinemeier.github.io/files/CV.pdf)
 
-Education
+
+##Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
+* [Ecole Polytechnique](https://www.polytechnique.edu), Cycle Ingénieur, majoring in Applied Mathematics 2021-2025
+* [ENSAE Paris](https://www.ensae.fr/en/education/ingenieur-ensae-program), Master 2 in  Economics Policies and Dynamics 2024-2025
+
+<!-- 
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -61,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
