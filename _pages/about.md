@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD candidate at [CREST](https://crest.science/),  [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home) since September 2025.
+I am a 2nd year PhD candidate at [CREST](https://crest.science/),  [Institut Polytechnique de Paris](https://www.ip-paris.fr/en) under the supervision of [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home) since September 2025.
 
 My interest lies broadly in **Demographic Economics** and **Family Economics**. More precisely, I study fertility and marriage using structural models and discrete choice experiments.
 
