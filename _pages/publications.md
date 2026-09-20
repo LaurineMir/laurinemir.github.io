@@ -16,7 +16,7 @@ In low-fertility countries, desired fertility exceeds realized fertility: people
 
 <p style="line-height: 1.4; text-align: justify; margin-left: 55px;"><strong><em>Paper presented at : </em></strong>CREST Internal Seminar (2026), Princeton Fertility Workshop (2026) </p>
 
-* **Polygamy as a Ponzi Scheme : how population growthr rates shapes marriage market in Africa** with [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home)
+* **Polygamy as a Ponzi Scheme : how population growth rates shapes marriage market in Africa** with [Pauline Rossi](https://sites.google.com/site/paulinerossimoulin/home)
 
 <font size="2"> <p style="line-height: 1.4; text-align: justify; margin-left: 55px;">
 <strong><em>Abstract: </em></strong> 
